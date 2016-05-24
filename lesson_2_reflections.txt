@@ -1,0 +1,3 @@
+Q1: What happens when you initialize a repository? Why do you need to do it? 
+
+A1: This creates a .git framework into which you can save future commits. 
