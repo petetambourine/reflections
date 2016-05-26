@@ -1,1 +1,4 @@
-d
+Q1: When would you want to use a remote repository rather than keeping all your work local? 
+
+A1: You might want to do this when working with other people on the same project, or if you want
+a backup of your files. 
