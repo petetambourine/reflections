@@ -8,3 +8,33 @@ you think it offers?
 A2: The staging area is a sort of area in between teh working directory and the repository. I think that 
 it allows one to add commit comments before adding them, and selecting only files that you want in a 
 commit. 
+
+Q3: How can you use the staging area to make sure you have one commit per logical change? 
+
+A3: You can check what has been modified within your files at this point without committing yet using git status.
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would 
+branches help? 
+
+A4: Branches can help keep one's history organized when making changes that you don't want to affect
+the entirety of the code you've already created. 
+
+Q5: How do the diagrams help you visualize branch structure? 
+
+A5: They show which commits are related to each other/accessible. 
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way
+we do? 
+
+A6: Merging two branches together results in incorporating independent changes in the branches into one. 
+We represent it the way that we do because it's a recombination, essentially. 
+
+Q7: What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
+
+A7: 
+GIT
+	Pros: Fast. 
+	Cons: Can result in conflicts. 
+Manual  
+	Pros: Allows one to resolve conflicts. 
+	Cons: Time consuming. 
